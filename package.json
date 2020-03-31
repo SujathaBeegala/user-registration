@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD operation using node.js and mongodb",
+  "main": "start script app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SujathaBeegala"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sujatha Beegala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
